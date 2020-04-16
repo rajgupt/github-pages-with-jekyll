@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Rajat's Blog
 
-I'm glad you are here. I plan to talk about ...
+Marking my presence on github pages. 
+
+
+
